@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Elite School Hackathon!</h1>
+  <h1><b>Elite School <span style="color: #0bf">Hackathon</span>!</b></h1>
 </div>
 
 1. Har bir ochayotgan faylingizni masala nomiga moslab oching!
