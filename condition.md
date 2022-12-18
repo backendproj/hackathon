@@ -19,6 +19,7 @@ Menga EPAM System kompaniyasidan bir masala berishdi . Bitta funksiya yarat va u
 
 ## *Misol uchun:*
 print(my_function([`10,25,32`], `True`))
+
 output: [5.0, 12.5, 16.0]
 
 
